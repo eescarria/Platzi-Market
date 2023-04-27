@@ -48,6 +48,7 @@ public class Producto {
         this.nombre = nombre;
     }
 
+
     public Integer getIdCategoria() {
         return idCategoria;
     }
